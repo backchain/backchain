@@ -1,3 +1,3 @@
 # backchain
 
-# A decentralized and distributed private classified listing.
+A decentralized and distributed private classified listing.
